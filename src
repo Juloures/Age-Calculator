@@ -1,0 +1,11 @@
+# Introdução
+print('Vamos descobrir sua idade daqui a 5 anos?')
+
+# Leitura da idade
+idade = int(input('Digite a idade: '))
+
+# Adição de 5 anos
+nova_idade = idade + 5
+
+# Exibição da nova idade
+print(f'Daqui 5 anos você terá {nova_idade} anos!')
